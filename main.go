@@ -1,6 +1,6 @@
 package main
 import (
-	"https://github.com/micneu72/webcli/cmd"
+	"github.com/micneu72/webcli/cmd"
 )
 
 func main() {
