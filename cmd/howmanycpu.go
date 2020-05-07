@@ -5,6 +5,6 @@ import (
 	"runtime"
 )
 
-func howmanycpu() {
+func Howmanycpu() {
 	fmt.Println("CPU:", runtime.NumCPU(), "KERNE")
 }
